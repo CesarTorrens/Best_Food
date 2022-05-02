@@ -61,7 +61,7 @@ main {
 }
 .dishes {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 200px));
+    grid-template-columns: repeat(auto-fit, minmax(150px, 250px));
     grid-auto-rows: 1fr;
     gap: 25px;
     justify-content: center;
@@ -78,7 +78,7 @@ main {
 
 .home-menu {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(75px, 250px));
+    grid-template-columns: repeat(auto-fit, minmax(75px, 200px));
     grid-auto-rows: 1fr;
     gap: 25px;
     margin-bottom: 50px;
