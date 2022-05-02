@@ -38,7 +38,8 @@ main {
 .hero .info  p {
     color: rgb(65, 65, 65);
     font-weight: 500;
-    padding-bottom: 30px;    
+    padding-bottom: 30px;
+    line-height: 20px;    
 }
 
 .hero .info button {
